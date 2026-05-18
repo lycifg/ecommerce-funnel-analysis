@@ -71,7 +71,7 @@ timestamp	发生时间	2025-01-01 10:00:01
 MIT License
 
 作者
-你的名字 – lycifg
+lycifg
 项目链接：https://github.com/lycifg/ecommerce-funnel-analysis
 
 text
